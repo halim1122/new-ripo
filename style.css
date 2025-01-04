@@ -1,0 +1,26 @@
+h3{
+    color: rgb(55, 0, 255);
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    text-align: center;
+    border: 2px solid blue;
+}
+.new{
+    width: 500px;
+    height: 300px;
+    position: relative;
+    background-color: darkgreen;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.circle{
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: red;
+    border: 2px solid black;
+    top: 120px;
+    left: 175px;
+
+}
